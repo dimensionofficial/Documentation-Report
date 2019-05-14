@@ -1,2 +1,2 @@
 # Documentation
-Project documentation
+Includes Ecosystem whitepaper and technical whitepaper etc.
