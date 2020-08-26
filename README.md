@@ -1,4 +1,4 @@
-# Documentation
+## Documentation
 Includes Ecosystem whitepaper and technical whitepaper etc.
 
 Check out monthly reports under https://github.com/dimensionofficial/Documentation-Report/tree/master/Project%20Report  
